@@ -47,3 +47,10 @@
 | PHP_LOG_ERRORS_MAX_LEN                | Int    | 1024            | |
 | PHP_IGNORE_REPEATED_ERRORS            | String | Off             | |
 | PHP_IGNORE_REPEATED_SOURCE            | String | Off             | |
+| PHP_OPCACHE_ENABLE                    | Int    | 1               | |
+| PHP_OPCACHE_VALIDATE_TIMESTAMPS       | Int    | 1               | |
+| PHP_OPCACHE_REVALIDATE_FREQ           | Int    | 2               | |
+| PHP_OPCACHE_MAX_ACCELERATED_FILES     | Int    | 20000           | |
+| PHP_OPCACHE_MEMORY_CONSUMPTION        | Int    | 128             | |
+| PHP_OPCACHE_INTERNED_STRINGS_BUFFER   | Int    | 16              | |
+| PHP_OPCACHE_FAST_SHUTDOWN             | Int    | 16              | |
