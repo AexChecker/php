@@ -2,10 +2,10 @@
 
 ## Supported tags and respective `Dockerfile` links:
 
-- [`7.1-2.0.1`, `7.1`, `latest` (*7.1/Dockerfile*)](https://github.com/AexChecker/php/tree/master/7.1/Dockerfile)
-- [`7.0-2.0.1`, `7.0`, (*7.0/Dockerfile*)](https://github.com/AexChecker/php/tree/master/7.0/Dockerfile)
-- [`5.6-2.0.1`, `5.6` (*5.6/Dockerfile*)](https://github.com/AexChecker/php/tree/master/5.6/Dockerfile)
-- [`5.3-2.0.1`, `5.3` (*5.3/Dockerfile*)](https://github.com/AexChecker/php/tree/master/5.3/Dockerfile)
+- [`7.1-2.0.1`, `7.1`, `latest` (*7.1/Dockerfile*)](https://github.com/AexChecker/php/blob/2.0.1/7.1/Dockerfile)
+- [`7.0-2.0.1`, `7.0`, (*7.0/Dockerfile*)](https://github.com/AexChecker/php/blob/2.0.1/7.0/Dockerfile)
+- [`5.6-2.0.1`, `5.6` (*5.6/Dockerfile*)](https://github.com/AexChecker/php/blob/2.0.1/5.6/Dockerfile)
+- [`5.3-2.0.1`, `5.3` (*5.3/Dockerfile*)](https://github.com/AexChecker/php/blob/2.0.1/5.3/Dockerfile)
 
 ## Environment Variables Available for Customization
 
