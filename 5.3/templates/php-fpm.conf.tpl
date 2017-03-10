@@ -16,7 +16,7 @@ pm.max_children = {{ getenv "PHP_FPM_MAX_CHILDREN" "4" }}
 pm.max_requests = {{ getenv "PHP_FPM_MAX_REQUESTS" "0" }}
 pm.process_idle_timeout = {{ getenv "PHP_FPM_PROCESS_IDLE_TIMEOUT" "30" }}
 
-php_value[memory_limit] = {{ getenv "PHP_MEMORY_LIMIT" "1024M" }}
+php_value[memory_limit] = {{ getenv "PHP_MEMORY_LIMIT" "2048M" }}
 php_value[max_execution_time] = {{ getenv "PHP_MAX_EXECUTION_TIME" "300" }}
 php_value[max_input_time] = {{ getenv "PHP_MAX_INPUT_TIME" "60" }}
 php_value[max_input_vars] = {{ getenv "PHP_MAX_INPUT_VARS" "2000" }}

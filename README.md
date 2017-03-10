@@ -28,7 +28,7 @@
 | PHP_FPM_MAX_CHILDREN                  | Int    | 4               | |
 | PHP_FPM_MAX_REQUESTS                  | Int    | 0               | |
 | PHP_FPM_PROCESS_IDLE_TIMEOUT          | Int    | 30              | |
-| PHP_MEMORY_LIMIT                      | Int    | 1024            | |
+| PHP_MEMORY_LIMIT                      | Int    | 2048M           | |
 | PHP_MAX_EXECUTION_TIME                | Int    | 300             | |
 | PHP_MAX_INPUT_TIME                    | Int    | 60              | |
 | PHP_MAX_INPUT_VARS                    | Int    | 2000            | |
