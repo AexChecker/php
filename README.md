@@ -36,7 +36,7 @@
 | PHP_UPLOAD_MAX_FILESIZE               | String | 512M            | |
 | PHP_DISPLAY_ERRORS                    | String | On              | |
 | PHP_DISPLAY_STARTUP_ERRORS            | String | On              | |
-| PHP_XDEBUG                            | Bool   |                 | |
+| PHP_XDEBUG                            | Bool   | 0               | |
 | PHP_XDEBUG_DEFAULT_ENABLE             | Int    | 0               | |
 | PHP_XDEBUG_REMOTE_ENABLE              | Int    | 1               | |
 | PHP_XDEBUG_REMOTE_PORT                | Int    | 9000            | |
